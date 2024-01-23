@@ -17,5 +17,5 @@ If you don't have [pip](https://pip.pypa.io) installed, this [Python installatio
 To install cng2s3 from sources, run this command in your terminal:
 
 ```
-pip install git+https://github.com/Youssef-Harby/cng2s3
+pip install git+https://github.com/cartologic/cng2s3
 ```

@@ -1,10 +1,10 @@
 site_name: cng2s3
 site_description: Publish Cloud-Native Geospatial Formats to Object Storage, Including STAC.
-site_author: Youssef-Harby
-site_url: https://Youssef-Harby.github.io/cng2s3
-repo_url: https://github.com/Youssef-Harby/cng2s3
+site_author: Cartologic
+site_url: https://cartologic.github.io/cng2s3
+repo_url: https://github.com/cartologic/cng2s3
 
-copyright: "Copyright &copy; 2024 - 2024 Youssef Harby"
+copyright: "Copyright &copy; 2024 - 2024 Cartologic"
 
 theme:
     palette:
@@ -51,7 +51,7 @@ plugins:
           allow_errors: false
           ignore: ["conf.py"]
           execute_ignore: ["*ignore.ipynb"]
-          
+
 markdown_extensions:
     - admonition
     - abbr
@@ -78,9 +78,9 @@ nav:
     - Contributing: contributing.md
     - FAQ: faq.md
     - Changelog: changelog.md
-    - Report Issues: https://github.com/Youssef-Harby/cng2s3/issues
+    - Report Issues: https://github.com/cartologic/cng2s3/issues
     - Examples:
-        - examples/intro.ipynb
+          - examples/intro.ipynb
     - API Reference:
           - cng2s3 module: cng2s3.md
           - common module: common.md
